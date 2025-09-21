@@ -1,8 +1,10 @@
-# asciiImageConverter
+# AsciiImageConverter
 
-This Script converts Images to an ASCII-Art-like Format.
+Script converts Images to an ASCII-Art-like Format.
 
-### Usage:
+
+
+## Usage:
 
 ```bash
 imageconverter <input/image/file> <output/image/file> --width (optional) --height (optional)
