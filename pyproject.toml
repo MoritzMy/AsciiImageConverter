@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "imageconverter"
+version = "0.1.0"
+description = "Convert images to an ASCII-Art-like Image"
+authors = [{name = "MMy"}]
+dependencies = ["Pillow", "numpy"]
+
+[project.scripts]
+imageconverter = "imageconverter.cli:main"

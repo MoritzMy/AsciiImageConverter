@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+imageconverter/__init__.py
+imageconverter/cli.py
+imageconverter.egg-info/PKG-INFO
+imageconverter.egg-info/SOURCES.txt
+imageconverter.egg-info/dependency_links.txt
+imageconverter.egg-info/entry_points.txt
+imageconverter.egg-info/requires.txt
+imageconverter.egg-info/top_level.txt
